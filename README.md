@@ -21,7 +21,6 @@ En el 2020 cree mi canal de YouTube, en la cual subo contenido educativo de mate
 
 [![YouTube](https://img.shields.io/badge/YouTube-Allikus-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@Allikus?sub_confirmation=1)
 </br>
-[![TikTok](https://img.shields.io/badge/TikTok-@nickezu-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@nickezu)
 [![Facebook](https://img.shields.io/badge/Facebook-@nicksuel-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/nick.suel.9)
 
 ## Algunos vídeos en YouTube:
