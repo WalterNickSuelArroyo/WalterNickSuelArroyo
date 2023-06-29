@@ -21,7 +21,7 @@ En el 2020 cree mi canal de YouTube, en la cual subo contenido educativo de prog
 
 ## Encuéntrame en:
 
-[![YouTube](https://img.shields.io/badge/YouTube-Allikus-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@TortugaNebulosa?sub_confirmation=1)
+[![YouTube](https://img.shields.io/badge/YouTube-TortugaNebulosa-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@TortugaNebulosa?sub_confirmation=1)
 </br>
 
 
@@ -30,52 +30,52 @@ En el 2020 cree mi canal de YouTube, en la cual subo contenido educativo de prog
 <table style="width:100%">
   <tr>
     <td>
-	<a href="https://youtu.be/oNPF2getauY">
-  		<img src="">
+	<a href="https://youtu.be/l6eyYVqvcrE">
+  		<img src="imagenes/4.jpg">
 	</a>
 	</td>
     <td>
-	<a href="https://youtu.be/tBtpzuFNIMQ">
-  		<img src="">
+	<a href="https://youtu.be/uhNxPQ8Mzvk">
+  		<img src="imagenes/5.jpg">
 	</a>
 	</td>
     <td>
 	<a href="https://youtu.be/YCqQpz04QWs">
-  		<img src="">
+  		<img src="imagenes/3.jpg">
 	</a>
 	</td>
   </tr>
   <tr>
     <td>
-	<a href="https://www.youtube.com/watch?v=cGoQmmkaGfs&t=205s">
-  		<img src="">
+	<a href="https://youtu.be/g-Ms-YPcQYw">
+  		<img src="imagenes/8.jpg">
 	</a>
 	</td>
 	<td>
-	<a href="">
-  		<img src="">
+	<a href="https://youtu.be/55o1ZgliWzc">
+  		<img src="imagenes/7.jpg">
 	</a>
 	</td>
    <td>
-	<a href="">
-  		<img src="">
+	<a href="https://youtu.be/loJAB7qf-d0">
+  		<img src="imagenes/9.jpg">
 	</a>
 	</td>
   </tr>
     <tr>
     <td>
-	<a href="">
-  		<img src="">
+	<a href="https://youtu.be/tBtpzuFNIMQ">
+  		<img src="imagenes/1.PNG">
 	</a>
 	</td>
 	<td>
-	<a href="">
-  		<img src="">
+	<a href="https://youtu.be/oNPF2getauY">
+  		<img src="imagenes/10.jpg">
 	</a>
 	</td>
    <td>
-	<a href="">
-  		<img src="">
+	<a href="https://youtu.be/6OhNYEt2aEE">
+  		<img src="imagenes/2.jpg">
 	</a>
 	</td>
   </tr>
