@@ -1,7 +1,7 @@
 ### Hola mi nombre es Walter Nick Suel Arroyo 👋
 
 
-Soy estudiante de Ingenieria de Software de la Universidad Nacional Mayor de San Marcos 8vo Ciclo.
+Soy estudiante de Ingenieria de Software de la Universidad Nacional Mayor de San Marcos 9no Ciclo.
 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJeM2S9QuPQ9BdgGfSE1AEQ?style=social)](https://www.youtube.com/@TortugaNebulosa?sub_confirmation=1)
