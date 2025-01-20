@@ -4,9 +4,7 @@
 Soy estudiante de Ingenieria de Software de la Universidad Nacional Mayor de San Marcos 10mo Ciclo.
 
 
-<a href="https://www.youtube.com/@waltersuel?sub_confirmation=1" target="_blank">
-  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJeM2S9QuPQ9BdgGfSE1AEQ?style=social)
-</a>
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJeM2S9QuPQ9BdgGfSE1AEQ?style=social)](https://www.youtube.com/@waltersuel?sub_confirmation=1)
 
 En el 2020 cree mi canal de YouTube, en la cual subo contenido educativo de programación y ciencias. Actualmente cuento con más de 150 videos subidos en la plataforma en las cuales incluye tambien los diferentes proyectos que he ido desarrollando durante mi aprendizaje.
 
@@ -27,9 +25,7 @@ En el 2020 cree mi canal de YouTube, en la cual subo contenido educativo de prog
 
 ## Encuéntrame en:
 
-<a href="https://www.youtube.com/@waltersuel?sub_confirmation=1" target="_blank">
-  ![YouTube](https://img.shields.io/badge/YouTube-WalterSuel-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)
-</a>
+[![YouTube](https://img.shields.io/badge/YouTube-WalterSuel-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@waltersuel?sub_confirmation=1)
 </br>
 
 
