@@ -4,7 +4,9 @@
 Soy estudiante de Ingenieria de Software de la Universidad Nacional Mayor de San Marcos 10mo Ciclo.
 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJeM2S9QuPQ9BdgGfSE1AEQ?style=social)](https://www.youtube.com/@waltersuel?sub_confirmation=1)
+<a href="https://www.youtube.com/@waltersuel?sub_confirmation=1" target="_blank">
+  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJeM2S9QuPQ9BdgGfSE1AEQ?style=social)
+</a>
 
 En el 2020 cree mi canal de YouTube, en la cual subo contenido educativo de programación y ciencias. Actualmente cuento con más de 150 videos subidos en la plataforma en las cuales incluye tambien los diferentes proyectos que he ido desarrollando durante mi aprendizaje.
 
@@ -25,7 +27,9 @@ En el 2020 cree mi canal de YouTube, en la cual subo contenido educativo de prog
 
 ## Encuéntrame en:
 
-[![YouTube](https://img.shields.io/badge/YouTube-WalterSuel-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@waltersuel?sub_confirmation=1)
+<a href="https://www.youtube.com/@waltersuel?sub_confirmation=1" target="_blank">
+  ![YouTube](https://img.shields.io/badge/YouTube-WalterSuel-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)
+</a>
 </br>
 
 
@@ -34,10 +38,13 @@ En el 2020 cree mi canal de YouTube, en la cual subo contenido educativo de prog
 <table style="width:100%">
   <tr>
     <td>
-	<a href="https://www.youtube.com/watch?v=IaGRzDfzWuo">
-  		<img src="imagenes/1-cli-tabla-multiplicar.png">
-	</a>
-	</td>
+	<figure>
+	        <a href="https://www.youtube.com/watch?v=IaGRzDfzWuo" target="_blank">
+	          <img src="imagenes/1-cli-tabla-multiplicar.png" alt="Tabla de multiplicar CLI">
+	        </a>
+	        <figcaption>Tabla de multiplicar CLI</figcaption>
+        </figure>
+    </td>
     <td>
 	<a href="https://youtu.be/uhNxPQ8Mzvk">
   		<img src="imagenes/5.jpg">
