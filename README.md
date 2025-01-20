@@ -25,7 +25,7 @@ En el 2020 cree mi canal de YouTube, en la cual subo contenido educativo de prog
 
 ## Encuéntrame en:
 
-[![YouTube](https://img.shields.io/badge/YouTube-TortugaNebulosa-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@waltersuel?sub_confirmation=1)
+[![YouTube](https://img.shields.io/badge/YouTube-WalterSuel-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@waltersuel?sub_confirmation=1)
 </br>
 
 
@@ -34,8 +34,8 @@ En el 2020 cree mi canal de YouTube, en la cual subo contenido educativo de prog
 <table style="width:100%">
   <tr>
     <td>
-	<a href="https://youtu.be/l6eyYVqvcrE">
-  		<img src="imagenes/4.jpg">
+	<a href="https://www.youtube.com/watch?v=IaGRzDfzWuo">
+  		<img src="imagenes/1-cli-tabla-multiplicar.png">
 	</a>
 	</td>
     <td>
